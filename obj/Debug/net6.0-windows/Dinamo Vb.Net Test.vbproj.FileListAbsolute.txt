@@ -1,0 +1,22 @@
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\bin\Debug\net6.0-windows\Dinamo Vb.Net Test.exe
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\bin\Debug\net6.0-windows\Dinamo Vb.Net Test.deps.json
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\bin\Debug\net6.0-windows\Dinamo Vb.Net Test.runtimeconfig.json
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\bin\Debug\net6.0-windows\Dinamo Vb.Net Test.dll
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\bin\Debug\net6.0-windows\Dinamo Vb.Net Test.pdb
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\bin\Debug\net6.0-windows\DinamoTestCore.dll
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\bin\Debug\net6.0-windows\DinamoTestCore.pdb
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\bin\Debug\net6.0-windows\DinamoTestCore.xml
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.vbproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo_Vb.Net_Test.Form1.resources
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo_Vb.Net_Test.Resources.resources
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.vbproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.AssemblyInfo.vb
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo V.C9A1B438.Up2Date
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.dll
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\refint\Dinamo Vb.Net Test.dll
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.pdb
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\ref\Dinamo Vb.Net Test.dll

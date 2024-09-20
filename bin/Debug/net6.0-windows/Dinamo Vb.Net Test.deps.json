@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dinamo Vb.Net Test/1.0.0": {
+        "dependencies": {
+          "DinamoTestCore": "1.0.0"
+        },
+        "runtime": {
+          "Dinamo Vb.Net Test.dll": {}
+        }
+      },
+      "DinamoTestCore/1.0.0": {
+        "runtime": {
+          "DinamoTestCore.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dinamo Vb.Net Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DinamoTestCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
