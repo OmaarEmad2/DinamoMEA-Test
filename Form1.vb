@@ -80,6 +80,8 @@ Public Class Form1
         Dim SelectedEmployee As Employee = employee(lstEmployees.SelectedIndex)
         SelectedEmployee.GetDetails()
     End Sub
+
+
 End Class
 
 

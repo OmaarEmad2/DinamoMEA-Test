@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Dinamo Vb.Net Test", "Dinamo Vb.Net Test.vbproj", "{DA1E885C-E76F-4ECC-8EEE-4214D8E45E05}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DinamoTestCore", "..\DinamoTestCore\DinamoTestCore.vbproj", "{5ADD9A91-EB16-4CE9-B221-92E2FEFF6D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1E885C-E76F-4ECC-8EEE-4214D8E45E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1E885C-E76F-4ECC-8EEE-4214D8E45E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1E885C-E76F-4ECC-8EEE-4214D8E45E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1E885C-E76F-4ECC-8EEE-4214D8E45E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADD9A91-EB16-4CE9-B221-92E2FEFF6D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADD9A91-EB16-4CE9-B221-92E2FEFF6D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADD9A91-EB16-4CE9-B221-92E2FEFF6D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADD9A91-EB16-4CE9-B221-92E2FEFF6D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39311FDE-DF06-4638-86B5-3BDEEA08A00A}
+	EndGlobalSection
+EndGlobal
