@@ -16,8 +16,8 @@
   "libraries": {
     "DinamoTestCore/1.0.0": {
       "type": "project",
-      "path": "../DinamoTestCore/DinamoTestCore.vbproj",
-      "msbuildProject": "../DinamoTestCore/DinamoTestCore.vbproj"
+      "path": "DinamoTestCore/DinamoTestCore.vbproj",
+      "msbuildProject": "DinamoTestCore/DinamoTestCore.vbproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -58,8 +58,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Hp\\source\\repos\\DinamoTestCore\\DinamoTestCore.vbproj": {
-              "projectPath": "C:\\Users\\Hp\\source\\repos\\DinamoTestCore\\DinamoTestCore.vbproj"
+            "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj": {
+              "projectPath": "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj"
             }
           }
         }

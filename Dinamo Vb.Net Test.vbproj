@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DinamoTestCore\DinamoTestCore.vbproj" />
+    <ProjectReference Include="DinamoTestCore\DinamoTestCore.vbproj" />
   </ItemGroup>
 
   <ItemGroup>

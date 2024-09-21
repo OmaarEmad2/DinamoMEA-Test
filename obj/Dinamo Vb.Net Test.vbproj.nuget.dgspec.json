@@ -33,8 +33,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Hp\\source\\repos\\DinamoTestCore\\DinamoTestCore.vbproj": {
-                "projectPath": "C:\\Users\\Hp\\source\\repos\\DinamoTestCore\\DinamoTestCore.vbproj"
+              "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj": {
+                "projectPath": "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj"
               }
             }
           }
@@ -94,11 +94,11 @@
         }
       }
     },
-    "C:\\Users\\Hp\\source\\repos\\DinamoTestCore\\DinamoTestCore.vbproj": {
+    "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\DinamoTestCore\\DinamoTestCore.vbproj",
+        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj",
         "projectName": "DinamoTestCore",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\DinamoTestCore\\DinamoTestCore.vbproj",
+        "projectPath": "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
