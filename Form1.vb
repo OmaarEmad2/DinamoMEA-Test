@@ -14,6 +14,8 @@ Public Class Form1
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+
         txtHour.Visible = False
         lblHour.Visible = False
     End Sub

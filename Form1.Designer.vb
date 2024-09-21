@@ -165,7 +165,7 @@ Partial Class Form1
         AutoScaleMode = AutoScaleMode.Font
         AutoSize = True
         BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), Image)
-        BackgroundImageLayout = ImageLayout.Zoom
+        BackgroundImageLayout = ImageLayout.Stretch
         ClientSize = New Size(733, 450)
         Controls.Add(lstEmployees)
         Controls.Add(btnDetails)
@@ -181,6 +181,7 @@ Partial Class Form1
         Controls.Add(txtName)
         Controls.Add(lblName)
         Location = New Point(150, 120)
+        MinimizeBox = False
         Name = "Form1"
         SizeGripStyle = SizeGripStyle.Show
         Text = "Employee Mangment"

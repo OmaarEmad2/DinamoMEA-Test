@@ -14,6 +14,7 @@ C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.N
 C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.AssemblyInfoInputs.cache
 C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.AssemblyInfo.vb
 C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.sourcelink.json
 C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo V.C9A1B438.Up2Date
 C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\Dinamo Vb.Net Test.dll
 C:\Users\Hp\source\repos\Dinamo Vb.Net Test\obj\Debug\net6.0-windows\refint\Dinamo Vb.Net Test.dll
