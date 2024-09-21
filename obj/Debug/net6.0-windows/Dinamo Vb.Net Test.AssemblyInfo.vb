@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Dinamo Vb.Net Test"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94a2ccba49bb7014b81b424436761b9f3f91efb3"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c36bd1d2eaa29ca8d660a1aaeb0d843cce5a6ab9"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Dinamo Vb.Net Test"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Dinamo Vb.Net Test"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

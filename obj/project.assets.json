@@ -16,8 +16,8 @@
   "libraries": {
     "DinamoTestCore/1.0.0": {
       "type": "project",
-      "path": "DinamoTestCore/DinamoTestCore.vbproj",
-      "msbuildProject": "DinamoTestCore/DinamoTestCore.vbproj"
+      "path": "../ClassLibrary2/DinamoTestCore/DinamoTestCore.vbproj",
+      "msbuildProject": "../ClassLibrary2/DinamoTestCore/DinamoTestCore.vbproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -26,24 +26,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\Dinamo Vb.Net Test.vbproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\DinamoMEA-Test\\Dinamo Vb.Net Test.vbproj",
       "projectName": "Dinamo Vb.Net Test",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\Dinamo Vb.Net Test.vbproj",
-      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\obj\\",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\DinamoMEA-Test\\Dinamo Vb.Net Test.vbproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\DinamoMEA-Test\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,14 +47,15 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/MaaogE6ma8EmLOPryRMRXdHM56DcMgIS6pqSLHuGGHGzinlcb1/api/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj": {
-              "projectPath": "C:\\Users\\Hp\\source\\repos\\Dinamo Vb.Net Test\\DinamoTestCore\\DinamoTestCore.vbproj"
+            "C:\\Users\\hp\\source\\repos\\ClassLibrary2\\DinamoTestCore\\DinamoTestCore.vbproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\ClassLibrary2\\DinamoTestCore\\DinamoTestCore.vbproj"
             }
           }
         }
@@ -89,24 +85,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -115,7 +93,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

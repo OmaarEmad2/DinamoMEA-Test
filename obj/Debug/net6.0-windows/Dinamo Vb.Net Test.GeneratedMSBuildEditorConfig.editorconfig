@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dinamo_Vb.Net_Test
-build_property.ProjectDir = C:\Users\Hp\source\repos\Dinamo Vb.Net Test\
+build_property.ProjectDir = C:\Users\hp\source\repos\DinamoMEA-Test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
